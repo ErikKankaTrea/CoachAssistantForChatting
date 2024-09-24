@@ -17,7 +17,7 @@ Presentamos **Greta 8B Mistral**, un asistente conversacional en español inspir
    - Las conversaciones abarcan temas como filosofía, psicología, matemáticas y buenos hábitos.
 
 3. **Agradecimientos**:
-   - 🎉 Un agradecimiento especial a **Eric Hartford** por proporcionar el script en JavaScript que permitió la generación de datos sintéticos.
+   - 🎉 Un agradecimiento especial a **Eric Hartford** por proporcionar trabajo previo con su proyecto Samantha.
 
 4. **Fine-tuning**:
    - El modelo **Mistral 7B** fue ajustado usando **QLora** con cuantificación en 8 bits, manteniendo un formato de chat (no instruct) para hacerlo más natural.
