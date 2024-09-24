@@ -1,6 +1,6 @@
 # 💬 **Greta 8B Mistral** - **Spanish Couch Assistant**
 
-Special thanks to '' who has certainly enlightened more than one person with his project - Samantha. This modified version is inspired from his work, and motivated for the lack of spanish assistants.
+Special thanks to Eric Hartford who has certainly enlightened more than one person with his project - Samantha. This modified version is inspired from his work, and motivated for the lack of spanish assistants.
 
 ### 📜 **Descripción:**
 Presentamos **Greta 8B Mistral**, un asistente conversacional en español inspirado en Samantha. Este bot se especializa en conversaciones profundas sobre:
@@ -18,7 +18,7 @@ Presentamos **Greta 8B Mistral**, un asistente conversacional en español inspir
    - Las conversaciones abarcan temas como filosofía, psicología, matemáticas y buenos hábitos.
 
 3. **Agradecimientos**:
-   - 🎉 Un agradecimiento especial a **Eric Harfoorth** por proporcionar el script en JavaScript que permitió la generación de datos sintéticos.
+   - 🎉 Un agradecimiento especial a **Eric Hartford** por proporcionar el script en JavaScript que permitió la generación de datos sintéticos.
 
 4. **Fine-tuning**:
    - El modelo **Mistral 7B** fue ajustado usando **QLora** con cuantificación en 8 bits, manteniendo un formato de chat (no instruct) para hacerlo más natural.
