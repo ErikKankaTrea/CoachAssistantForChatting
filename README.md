@@ -3,10 +3,9 @@
 Special thanks to Eric Hartford who has certainly enlightened more than one person with his project - Samantha. This modified version is inspired from his work, and motivated for the lack of spanish assistants.
 
 ### 📜 **Descripción:**
-Presentamos **Greta 8B Mistral**, un asistente conversacional en español inspirado en Samantha. Este bot se especializa en conversaciones profundas sobre:
+Presentamos **Greta 8B Mistral**, un asistente conversacional en español inspirado en Samantha. Este bot se especializa en conversaciones y sobre todo enfocado en acabar aconsejandote un plan para adquirir algún habito saludable:
 - 🧠 Filosofía
 - 🧘 Psicología
-- 🧮 Matemáticas
 - 🌱 Hábitos saludables
 
 ### 🔧 **Cómo lo hicimos:**
