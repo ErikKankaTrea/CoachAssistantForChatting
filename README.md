@@ -27,4 +27,4 @@ Presentamos **Greta 8B Mistral**, un asistente conversacional en español inspir
    - Consulta un par de scripts en el repositorio para reproducir el proceso en tu propio idioma.
 
 ### 🌐 **Pruébalo**:
-- El bot está desplegado en Hugging Face Space. Si quieres probarlo, busca **"Greta 8B Mistral"**.
+- El bot está desplegado en Hugging Face Space. Si quieres probarlo, busca **"Greta 8B Mistral"**. ´Erik/Erik-llm-super_greta-8bit-mistral-7b-conversacion-es
