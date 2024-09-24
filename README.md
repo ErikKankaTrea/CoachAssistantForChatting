@@ -27,3 +27,6 @@ Presentamos **Greta 8B Mistral**, un asistente conversacional en español inspir
 
 ### 🌐 **Pruébalo**:
 - El bot está desplegado en Hugging Face Space. Si quieres probarlo, busca **"Greta 8B Mistral"**. `Erik/Erik-llm-super_greta-8bit-mistral-7b-conversacion-es`
+
+<br>
+[Buy Me A Coffee](https://www.buymeacoffee.com/erikmartinz)                                                       <img src="./QR.png" alt="Buy Me A Coffee QR Code" width="100" height="100">
